@@ -2,8 +2,6 @@
 # MilhasPix
 
 **MilhasPix Intermediação de Negócios LTDA**  
-[Site Oficial](https://milhaspix.com)  
-📧 contato@milhaspix.com
 
 ---
 
