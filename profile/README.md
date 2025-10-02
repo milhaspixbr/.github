@@ -1,6 +1,8 @@
 
 # MilhasPix
 
+---
+
 ## 🚀 Sobre
 
 O **MilhasPix** é uma plataforma especializada na compra e venda de milhas aéreas com pagamento via PIX. Nossa missão é proporcionar soluções rápidas e seguras para emissão de passagens aéreas.
