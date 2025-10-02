@@ -1,8 +1,6 @@
 
 # MilhasPix
 
-**MilhasPix Intermediação de Negócios LTDA**  
-
 ---
 
 ## 🚀 Sobre
